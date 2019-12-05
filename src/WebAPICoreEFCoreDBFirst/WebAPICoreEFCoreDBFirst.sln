@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB.Chinook.WebAPI.WebApp", "LB.Chinook.WebAPI.WebApp\LB.Chinook.WebAPI.WebApp.csproj", "{7F96C989-FEA2-4C5E-AF98-B1EA4089F2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F96C989-FEA2-4C5E-AF98-B1EA4089F2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F96C989-FEA2-4C5E-AF98-B1EA4089F2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F96C989-FEA2-4C5E-AF98-B1EA4089F2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F96C989-FEA2-4C5E-AF98-B1EA4089F2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9539A6C-0B6E-4204-81E3-C7A304F8D7DB}
+	EndGlobalSection
+EndGlobal
